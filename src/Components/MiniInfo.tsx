@@ -2,10 +2,7 @@ function MiniInfo() {
   return (
     <>
       <div className="d-flex justify-content-center p-4"></div>
-      <div
-        className="p-5 animate__animated animate__fadeInUp animate__slow"
-        style={{ backgroundColor: "#ffe7b3" }}
-      >
+      <div className="p-5 animate__animated animate__fadeInUp animate__slow">
         <div className="container text-center p-3 rounded">
           <h3 className="text-success mb-4 animate__animated animate__fadeInDown">
             About Ga YAF Group
